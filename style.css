@@ -22,4 +22,9 @@
     list-style: none;
     
 }
-li::marker {color: rgb(119, 189, 255);}
+
+li::marker {color: rgb(86, 202, 255);}
+
+.step {
+    padding-bottom: 40px;
+}
